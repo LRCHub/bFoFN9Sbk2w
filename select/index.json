@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Bang Bang",
+  "base_artist": "K'NAAN",
+  "createdAt": "2026-03-26T16:11:42.596970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chili-Chil Bäng Bäng",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/01_Chili-Chil_Bäng_Bäng_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Bang_Bang_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (feat. MNDR)",
+      "artist": "Mark Ronson feat. The Business Intl & MNDR",
+      "has_synced": true,
+      "path": "select/03_Bang_Bang_Bang_(feat._MNDR)_Mark_Ronson_feat._The_Business_Intl_&_MNDR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (Featuring Q-Tip, MNDR)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/04_Bang_Bang_Bang_(Featuring_Q-Tip,_MNDR)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Jessie J feat.Ariana Grande & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/05_Bang_Bang_Jessie_J_feat.Ariana_Grande_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/06_Bang_Bang_Jessie_J,_Ariana_Grande_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bang Bang Rock and Roll",
+      "artist": "Art Brut",
+      "has_synced": true,
+      "path": "select/07_Bang_Bang_Rock_and_Roll_Art_Brut.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "CH!PZ",
+      "has_synced": false,
+      "path": "select/08_Bang_Bang_CH!PZ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Chipz",
+      "has_synced": true,
+      "path": "select/09_Bang_Bang_Chipz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bang Bang Lulu",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/10_Bang_Bang_Lulu_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/11_Bang_Bang_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Jessie J feat.Ariana Grande & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/12_Bang_Bang_Jessie_J_feat.Ariana_Grande_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/13_Bang_Bang_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/14_Bang_Bang_Bang_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/15_Bang_Bang_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bang Bang",
+      "artist": "will.i.am",
+      "has_synced": true,
+      "path": "select/16_Bang_Bang_will.i.am.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bang Bang",
+      "artist": "K'naan",
+      "has_synced": false,
+      "path": "select/pl_01_Bang_Bang_K'naan.txt"
+    }
+  ]
+}
